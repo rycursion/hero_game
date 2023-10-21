@@ -1,0 +1,3 @@
+int doesPlayerExist();
+
+int loadPlayerProgress();
